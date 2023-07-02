@@ -2,3 +2,4 @@ new.txt 第一次提交
 new.txt 第二次提交
 new.txt 第三次提交
 new.txt 第四次提交
+git hub 上 new.txt 第四次提交
